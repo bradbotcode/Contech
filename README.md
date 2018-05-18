@@ -2,7 +2,7 @@
 __Putting Tech into context.__ A Developer’s Dictionary and Interactive Reference Guide.
 
 #### _Contributors:_ 
-__Alexander Bradley__ | __Daniel Doyle__ | __Brad Ferrell__ | __Abby Olaleye__
+__Brad Ferrell__ | __Daniel Doyle__ | __Alexander Bradley__ | __Abby Olaleye__
 
 #### Overview:
 * The inspiration behind this project came from our experience when beginning UNCC’s Coding Bootcamp. 
